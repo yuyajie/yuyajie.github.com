@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# 简历
+#  求职意向：会计助理
 
-You can use the [editor on GitHub](https://github.com/yuyajie/yuyajie.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+--- 
+ # 联系方式
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 手机：```135******** ```
+- Email：```2982548041@gmail.com ```
+- QQ/微信号：```yuyajie0401213```
 
-### Markdown
+--- 
+# 个人信息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - 于亚杰/女/1996 
+ - 本科/吉林师范大学计算机学院 
+ - Github：```yuyajie.github.io```
+ - 期望职位：会计师助理
+ - 期望城市：杭州
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+#教育背景
+- 2014.9-2018.7　　吉林师范大学
 
-- Bulleted
-- List
+---
+# 主修课程
+- 经济学  　运筹学　 项目管理 　 matlab 　 
+- 数据结构　  C语言 　Java  　html　 　css
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+---
+# 工作经历
 
-[Link](url) and ![Image](src)
-```
+## 大连东软公司 （2015.9.23 ~ 201.9.30）
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-  使用C语言坦克大战游戏编程 
 
-### Jekyll Themes
+## 校内安卓实训 （2016.5~2016.7） 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuyajie/yuyajie.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 使用java 语言编写五子棋，主要负责页面跳转，美化等
+ 
+ 
+# 荣誉奖项
 
-### Support or Contact
+ - 会计从业资格证书
+ - 英语pets四级
+ - 普通话二级甲等
+ -  优秀学生干部
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ---
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
