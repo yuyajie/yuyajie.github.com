@@ -14,7 +14,7 @@
  - 于亚杰/女/1996 
  - 本科/吉林师范大学计算机学院
  - 爱好: 看书，穷游，拍照
- - Github：```https://github.com/yuyajie```
+ - Github：[https://github.com/yuyajie](https://github.com/yuyajie)
  - 期望职位：会计师助理
  - 期望城市：杭州
 
